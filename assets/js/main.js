@@ -12,7 +12,7 @@ const SITE_CONFIG = {
   location: "New York, USA",
   phone: "+1 (XXX) XXX-XXXX",
   email: "[EDITABLE_EMAIL@example.com]",
-  formspreeEndpoint: "https://formspree.io/f/[EDITABLE_FORMSPREE_ID]",
+  formspreeEndpoint: "https://formspree.io/f/xeaovgyy",
   officeAddress: "[Editable Office Address, New York, NY 10001]",
   responseNotice: "Inquiries are typically answered within 24-48 business hours.",
   socials: {
